@@ -1,0 +1,66 @@
+accelerate @ file:///croot/huggingface_accelerate_1725023267452/work
+Brotli @ file:///croot/brotli-split_1714483155106/work
+certifi @ file:///croot/certifi_1725551672989/work/certifi
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+contourpy @ file:///opt/conda/conda-bld/contourpy_1663827406301/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+diffusers @ file:///croot/diffusers-suite_1690899988292/work
+einops==0.8.0
+filelock @ file:///croot/filelock_1700591183607/work
+fonttools @ file:///croot/fonttools_1713551344105/work
+fsspec @ file:///croot/fsspec_1724855583730/work
+gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645455532332/work
+huggingface_hub @ file:///croot/huggingface_hub_1724853938404/work
+idna @ file:///croot/idna_1714398848350/work
+imageio==2.35.1
+importlib-metadata @ file:///croot/importlib_metadata-suite_1704813515092/work
+importlib_resources @ file:///croot/importlib_resources-suite_1720641103994/work
+Jinja2 @ file:///croot/jinja2_1716993405101/work
+joblib @ file:///croot/joblib_1718217211762/work
+kiwisolver @ file:///croot/kiwisolver_1672387140495/work
+MarkupSafe @ file:///croot/markupsafe_1704205993651/work
+matplotlib @ file:///croot/matplotlib-suite_1693812469450/work
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+mpmath @ file:///croot/mpmath_1690848262763/work
+networkx @ file:///croot/networkx_1690561992265/work
+nibabel==5.2.1
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682953417311/work
+packaging @ file:///croot/packaging_1720101850331/work
+pandas==2.0.3
+pillow @ file:///croot/pillow_1721059439630/work
+platformdirs @ file:///croot/platformdirs_1692205439124/work
+ply==3.11
+pooch @ file:///croot/pooch_1695850093751/work
+protobuf==5.28.2
+psutil @ file:///opt/conda/conda-bld/psutil_1656431268089/work
+pyparsing @ file:///opt/conda/conda-bld/pyparsing_1661452539315/work
+PyQt5==5.15.10
+PyQt5-sip @ file:///croot/pyqt-split_1698769088074/work/pyqt_sip
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+pytz==2024.2
+PyYAML @ file:///croot/pyyaml_1698096049011/work
+regex @ file:///croot/regex_1726669635272/work
+requests @ file:///croot/requests_1721410876868/work
+safetensors @ file:///croot/safetensors_1724853960118/work
+scikit-learn @ file:///croot/scikit-learn_1694788527225/work
+scipy==1.10.1
+sip @ file:///croot/sip_1698675935381/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sympy @ file:///croot/sympy_1724938189289/work
+tensorboardX==2.6.2.2
+threadpoolctl @ file:///croot/threadpoolctl_1719407800858/work
+tomli @ file:///opt/conda/conda-bld/tomli_1657175507142/work
+torch==2.4.0
+torchaudio==2.4.0
+torchvision==0.19.0
+tornado @ file:///croot/tornado_1718740109488/work
+tqdm @ file:///croot/tqdm_1724853939799/work
+triton==3.0.0
+typing_extensions @ file:///croot/typing_extensions_1715268824938/work
+tzdata==2024.2
+unicodedata2 @ file:///croot/unicodedata2_1713212950228/work
+urllib3 @ file:///croot/urllib3_1718912636303/work
+zipp @ file:///croot/zipp_1704206909481/work
